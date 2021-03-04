@@ -1,0 +1,5 @@
+com\akhil\rest\webservices\restfulwebservices\entity\Department.class
+com\akhil\rest\webservices\restfulwebservices\service\DepartmentService.class
+com\akhil\rest\webservices\restfulwebservices\controller\DepartmentController.class
+com\akhil\rest\webservices\restfulwebservices\repository\DepartmentRepository.class
+com\akhil\rest\webservices\restfulwebservices\RestfulWebServicesApplication.class
